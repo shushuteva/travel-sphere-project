@@ -2,6 +2,7 @@ package com.travelsphere.travelsphere.service;
 
 import com.travelsphere.travelsphere.exceptions.AdminException;
 import com.travelsphere.travelsphere.model.Admin;
+import com.travelsphere.travelsphere.repository.AdminRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
